@@ -1,0 +1,8 @@
+com\letcute\LetElo.class
+com\letcute\config\ConfigElo.class
+com\letcute\database\EloTable.class
+com\letcute\hook\EloPlaceholderAPI.class
+com\letcute\listener\ListenerEvent.class
+com\letcute\manager\EloManager.class
+com\letcute\database\SqliteExecutor.class
+com\letcute\database\SqliteDB.class

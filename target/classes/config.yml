@@ -1,0 +1,17 @@
+##Below is the amount of elo a player gets when killing another player and also what is deducted when dying.
+sword: 1
+bow: 2
+tnt: 3
+fireball: 4
+poison: 5
+
+##Time to kill 1 person will get elo back
+## colling-time: 1 (1 minute)
+cooling-time: 0
+
+
+#Message will be sent to the player who killed the player and the elo number via {elo}
+message-kill: You have received an additional {elo} elo
+
+#Message will be sent to the person killed by another player and elo number via {elo}
+message-death: You have lost {elo} elo
